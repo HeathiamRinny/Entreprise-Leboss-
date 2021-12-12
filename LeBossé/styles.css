@@ -1,0 +1,72 @@
+.HeaderList 
+{
+    display: inline-block;
+    background-color:cyan;
+    padding : 10px; 
+    margin : 5px; 
+    border-radius: 10px;
+    color:lightyellow;
+}
+
+
+Main
+{    
+    background-image: url("image.png");
+}
+
+ul 
+{
+    margin: 0px;
+}
+
+p 
+{ 
+    text-align: justify;
+    padding : 0px 30px; 
+    color: white;
+}
+
+h1 
+{
+    margin: 0px; 
+    padding: 25px;
+    color: white;
+}
+
+
+.image250x100 
+{
+
+    float: right;
+    margin: 10px;
+    width: 350px;
+    border: 5px solid white;
+    border-radius: 10px;
+    
+}
+
+.image250x100n2 
+{
+    margin: 20px;
+    width: 350px;
+    border: 5px solid cyan;
+    
+    
+}
+
+.LoremLi 
+{
+   color: white;
+    margin: 0px;
+}
+
+a 
+{
+    color:yellowgreen;
+}
+
+body 
+{
+    background-color: black;
+    margin: 0px;
+}
