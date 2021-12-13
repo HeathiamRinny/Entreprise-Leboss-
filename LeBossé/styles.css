@@ -14,10 +14,7 @@ Main
     background-image: url("image.png");
 }
 
-ul 
-{
-    margin: 0px;
-}
+
 
 p 
 { 
@@ -28,7 +25,7 @@ p
 
 h1 
 {
-    margin: 0px; 
+   
     padding: 25px;
     color: white;
 }
@@ -57,7 +54,7 @@ h1
 .LoremLi 
 {
    color: white;
-    margin: 0px;
+  
 }
 
 a 
